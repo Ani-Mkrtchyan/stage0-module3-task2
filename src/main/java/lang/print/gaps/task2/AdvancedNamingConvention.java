@@ -10,8 +10,8 @@ public class AdvancedNamingConvention {
 
     }
 
-    public  int callByNumber(int number) {
-      return phoneNumber; //some code
+    public  static void callByNumber(int number) {
+      //some code
     }
 }
 
